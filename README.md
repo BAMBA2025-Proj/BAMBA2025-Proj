@@ -1,5 +1,7 @@
 # Bonjour, je suis Matcheni Bamba 👋
 
+<img align="right" width="180" src="profile-photo.jpg" alt="Portrait professionnel de Matcheni Bamba">
+
 Élève ingénieure en dernière année à l’ESTP Paris, spécialisée en **génie civil, topographie et géonumérique**. Je relie les relevés de terrain, les données spatiales et les outils numériques pour créer des cartes et des supports utiles aux projets.
 
 🌐 [Portfolio](https://bamba2025-proj.github.io/WEBSIG/) · 💼 [LinkedIn](https://www.linkedin.com/in/bambamatcheni/) · ✉️ [Me contacter](mailto:matcheni.bamba@estp.fr)
